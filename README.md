@@ -21,7 +21,8 @@ My real name is Nuo Shen. I am interested in building roms for my phone and some
 - 🔭 I’m currently working on Pixel Experience
 - 🌱 I’m currently learning bash
 - 💬 Ask me about my silly codes :)
-- ⚡ Fun fact: I love Sophon!
+- ⚡ Fun fact 1: I love Sophon!!!
+- ⚡ Fun fact 2: I cracked my school tablet!!!!!!!
 
 <h3>
   My stats
