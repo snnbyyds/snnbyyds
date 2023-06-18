@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/snnbyyds">
+  <img height="150em" src="https://avatars.githubusercontent.com/u/87487115">
 </p>
 
 ---
@@ -27,7 +27,7 @@ My real name is Nuo Shen. I am interested in building roms for my phone and some
 </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snnbyyds&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snnbyyds&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </h3>
   💻 Working environment
 </h3>
@@ -42,6 +42,7 @@ My real name is Nuo Shen. I am interested in building roms for my phone and some
 </h3>
 
 QQ: 2695096887
+Telegram: https://t.me/snnbyyds
 
 ---
 <p align="center">
