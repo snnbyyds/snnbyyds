@@ -18,7 +18,7 @@
 
 My real name is Nuo Shen. I am interested in building roms for my phone and some other things like Renegade Project. 
 
-- 🔭 I’m now an official maintainer for fajita in PixelExperience organization
+- 🔭 I’m now an official maintainer (buildbot) for fajita & enchilada in PixelExperience organization
 - 🌱 I’m currently learning something about Android
 - 💬 Ask me about my silly codes :)
 
