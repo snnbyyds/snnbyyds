@@ -36,8 +36,8 @@
   How to reach me?
 </h3>
 
-Telegram: https://t.me/snnbyyds
-QQ Group: 1018148902
+* Telegram: https://t.me/snnbyyds
+* QQ Group: 1018148902
 
 ---
 <p align="center">
