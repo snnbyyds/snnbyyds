@@ -2,10 +2,6 @@
   Hi there!👋 
 </h2>
 
-<h1 align="center">
-  I am snnbyyds!
-</h1>
-
 <p align="center">
   <img height="150em" src="https://avatars.githubusercontent.com/u/87487115">
 </p>
@@ -16,9 +12,9 @@
   Some information about me
 </h3>
 
-My real name is Nuo Shen, a student from NJU.
+ I am a student from NJU.
 
-- 🔭 I used to be an LineageOS enthusiast, but I'm now devoting myself to algorithms. 
+- 🔭 I used to be an LineageOS enthusiast, but I'm now devoting myself to algorithms and emulators. 
 - 🌱 I’m currently struggling with NJU's ICS-PA lessons and reviewing CPL.
 
 <h3>
@@ -41,6 +37,7 @@ My real name is Nuo Shen, a student from NJU.
 </h3>
 
 Telegram: https://t.me/snnbyyds
+QQ Group: 1018148902
 
 ---
 <p align="center">
