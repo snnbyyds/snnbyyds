@@ -10,4 +10,27 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
 
+---
+
+## 📊 GitHub Contribution Stats
+
+[![snnbyyds's GitHub stats](https://github-readme-stats.vercel.app/api?username=snnbyyds&count_private=true&show_icons=true&theme=radical)](https://github.com/snnbyyds)
+
+---
+
+## 📝 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snnbyyds&count_private=true&layout=compact&theme=radical)](https://github.com/snnbyyds)
+
+---
+
+## 📅 Contribution Calendar
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snnbyyds&theme=react-dark)](https://github.com/snnbyyds)
+
+---
+
+## LCCN / LCUS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles&site=cn)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles)
