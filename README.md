@@ -12,15 +12,22 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ---
 
-## 📊 GitHub Contribution Stats
-
-[![snnbyyds's GitHub stats](https://github-readme-stats.vercel.app/api?username=snnbyyds&count_private=true&show_icons=true&theme=radical)](https://github.com/snnbyyds)
-
----
-
-## 📝 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snnbyyds&count_private=true&layout=compact&theme=radical)](https://github.com/snnbyyds)
+<table>
+  <tr>
+    <td align="center">
+      <h3>📊 GitHub Contribution Stats</h3>
+      <a href="https://github.com/snnbyyds">
+        <img src="https://github-readme-stats.vercel.app/api?username=snnbyyds&count_private=true&show_icons=true&theme=radical" alt="snnbyyds's GitHub stats" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>📝 Top Languages</h3>
+      <a href="https://github.com/snnbyyds">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snnbyyds&count_private=true&layout=compact&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
