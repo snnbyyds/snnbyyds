@@ -38,10 +38,8 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ---
 
-## LCCN / LCUS
-![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles&site=cn)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles)
-
 ## Luogu
 ![snnbyyds的基本信息](https://luogu-card.vercel.app/about?id=1560631)
+
+## LCCN / LCUS
+![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles&site=cn)
