@@ -11,7 +11,7 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
 
-More info: https://snnbyyds.github.io/
+**More info:** https://snnbyyds.github.io/
 
 ---
 
