@@ -12,6 +12,9 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 **More info:** https://snnbyyds.github.io/
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📅 Contribution Calendar
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snnbyyds&theme=react-dark)](https://github.com/snnbyyds)
@@ -20,8 +23,6 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ## Codeforces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=snnbyyds)
-
-
 
 ## Luogu
 ![snnbyyds的基本信息](https://luogu-card.vercel.app/about?id=1560631)
