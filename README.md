@@ -15,18 +15,18 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2025 - To: 18 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-C++             32 hrs 34 mins  ██████████████████████░░░   87.82 %
-C               1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-CMake           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JSON            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Python          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Makefile        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Markdown        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C++             35 hrs 28 mins  ██████████████████░░░░░░░   71.35 %
+C               10 hrs 12 mins  █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+CMake           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Python          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Makefile        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Objective-C     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+YAML            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Markdown        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Linker Script   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
