@@ -15,16 +15,18 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-C++          27 hrs 20 mins  ███████████████████████▓░   95.16 %
-C            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-CMake        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Makefile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++             32 hrs 34 mins  ██████████████████████░░░   87.82 %
+C               1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+CMake           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+JSON            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Python          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Makefile        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git Config      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
