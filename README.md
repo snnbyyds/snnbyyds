@@ -15,18 +15,20 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 19 September 2024 - To: 19 September 2025
 
-C++             35 hrs 28 mins  ██████████████████░░░░░░░   71.35 %
-C               10 hrs 12 mins  █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-CMake           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Python          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+C++             35 hrs 43 mins  ██████████████████░░░░░░░   71.49 %
+C               10 hrs 12 mins  █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+CMake           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 JSON            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Makefile        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Makefile        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Objective-C     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 YAML            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Markdown        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Linker Script   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+S               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git Config      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
