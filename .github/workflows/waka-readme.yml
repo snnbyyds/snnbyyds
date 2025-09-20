@@ -15,8 +15,8 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 10
+          TIME_RANGE: last_year
+          LANG_COUNT: 12
           SHOW_TITLE: true
           COMMITTER_NAME: snnbyyds
           COMMITTER_EMAIL: snnbyyds@gmail.com
