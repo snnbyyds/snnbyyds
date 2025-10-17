@@ -41,8 +41,5 @@ JSON            1 hr 29 mins    ░░░░░░░░░░░░░░░░
 ## Codeforces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=snnbyyds)
 
-## Luogu
-![snnbyyds的基本信息](https://luogu-card.vercel.app/about?id=1560631)
-
 ## LCCN
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snnbyyds?theme=light&font=Fuzzy%20Bubbles&site=cn)
