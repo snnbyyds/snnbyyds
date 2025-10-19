@@ -14,20 +14,20 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 17 October 2025
+From: 18 October 2024 - To: 18 October 2025
 
-C               148 hrs 42 mins █████████████▓░░░░░░░░░░░   55.20 %
-C++             80 hrs 57 mins  ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Devicetree      10 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-CMake           7 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Python          3 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown        3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Assembly        3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-S               1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other           1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Makefile        1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-YAML            1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON            1 hr 29 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+C               149 hrs 47 mins █████████████▓░░░░░░░░░░░   54.64 %
+C++             84 hrs 4 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+Devicetree      10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+CMake           7 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Python          4 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown        3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Assembly        3 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+S               1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other           1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Makefile        1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+YAML            1 hr 36 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON            1 hr 29 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
