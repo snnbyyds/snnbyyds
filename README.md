@@ -14,9 +14,9 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 20 November 2025
+From: 21 November 2024 - To: 21 November 2025
 
-C++             181 hrs 55 mins ██████████▓░░░░░░░░░░░░░░   42.70 %
+C++             181 hrs 56 mins ██████████▓░░░░░░░░░░░░░░   42.70 %
 C               181 hrs 36 mins ██████████▓░░░░░░░░░░░░░░   42.62 %
 Devicetree      12 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Python          12 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
