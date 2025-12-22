@@ -14,7 +14,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 20 December 2025
+From: 21 December 2024 - To: 21 December 2025
 
 C++             302 hrs 58 mins █████████████▓░░░░░░░░░░░   54.84 %
 C               182 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   32.97 %
