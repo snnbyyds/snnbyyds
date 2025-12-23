@@ -14,14 +14,14 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2024 - To: 21 December 2025
+From: 22 December 2024 - To: 22 December 2025
 
-C++             302 hrs 58 mins █████████████▓░░░░░░░░░░░   54.84 %
-C               182 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   32.97 %
+C++             303 hrs 6 mins  █████████████▓░░░░░░░░░░░   54.86 %
+C               182 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   32.96 %
 Python          16 hrs 2 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 Devicetree      12 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 Markdown        11 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-CMake           8 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+CMake           8 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Assembly        3 hrs 38 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other           2 hrs 48 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 YAML            2 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
