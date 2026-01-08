@@ -1,15 +1,6 @@
 # Hi there
 
-I'm currently studying at **Nanjing University** and have a passion for coding and open-source projects. Here’s a little about me:
-
-- **Programming Languages:** Proficient in **C/C++**, **Java**, and **Python**.
-- **LineageOS Enthusiast:** I love working with LineageOS and have successfully ported it for the **qti Lahaina on arm64** platform.
-- **PixelExperience Contributor:** I was once a maintainer for **PixelExperience on fajita**.
-- **Internship**: Currently interning at Qingdao Youtan Network Technology Co., Ltd.
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
-
-**More info:** https://snnbyyds.github.io/
+I'm currently studying at **Nanjing University** and have a passion for coding and open-source projects. 
 
 <!--START_SECTION:waka-->
 
