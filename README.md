@@ -5,17 +5,17 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 25 January 2026
+From: 26 January 2025 - To: 26 January 2026
 
-C++             433 hrs 14 mins ██████████████▓░░░░░░░░░░   58.84 %
-C               191 hrs 26 mins ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-Python          40 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Markdown        17 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Devicetree      14 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-CMake           12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Assembly        4 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+C++             436 hrs 31 mins ██████████████▓░░░░░░░░░░   58.69 %
+C               191 hrs 26 mins ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+Python          44 hrs 40 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown        17 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Devicetree      14 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+CMake           12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Assembly        4 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 YAML            4 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other           3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other           3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 JSON            3 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 Makefile        2 hrs 56 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 S               2 hrs 52 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
