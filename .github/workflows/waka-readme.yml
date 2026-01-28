@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_year
-          LANG_COUNT: 12
+          LANG_COUNT: 18
           SHOW_TITLE: true
           COMMITTER_NAME: snnbyyds
           COMMITTER_EMAIL: snnbyyds@gmail.com
