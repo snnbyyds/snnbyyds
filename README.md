@@ -5,28 +5,28 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2025 - To: 29 January 2026
+From: 30 January 2025 - To: 30 January 2026
 
-Total Time: 753 hrs 31 mins
+Total Time: 756 hrs 58 mins
 
-C++             442 hrs 30 mins ██████████████▓░░░░░░░░░░   58.45 %
-C               191 hrs 26 mins ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-Python          49 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Markdown        17 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Devicetree      15 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-CMake           12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+C++             442 hrs 30 mins ██████████████▓░░░░░░░░░░   58.19 %
+C               191 hrs 26 mins ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+Python          52 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Markdown        17 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Devicetree      15 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+CMake           12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 Assembly        4 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-YAML            4 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+YAML            4 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Other           3 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 JSON            3 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Makefile        3 hrs 1 min     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 S               2 hrs 52 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Cuda            2 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Cuda            2 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Objective-C     1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI             50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Git Config      40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Linker Script   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Bash            28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Java            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
