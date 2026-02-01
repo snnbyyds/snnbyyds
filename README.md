@@ -5,28 +5,28 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 30 January 2026
+From: 31 January 2025 - To: 31 January 2026
 
-Total Time: 887 hrs 56 mins
+Total Time: 897 hrs 9 mins
 
-C++             512 hrs 21 mins ██████████████▒░░░░░░░░░░   57.41 %
-C               222 hrs 16 mins ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
-Python          64 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other           4 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+C++             516 hrs 47 mins ██████████████▒░░░░░░░░░░   57.31 %
+C               222 hrs 19 mins ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+Python          68 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other           4 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JSON            3 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Cuda            3 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON            3 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Cuda            3 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git Config      1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI             1 hr 12 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Git Config      1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Linker Script   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Bash            28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Java            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
