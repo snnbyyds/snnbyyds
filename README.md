@@ -5,23 +5,23 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 02 February 2026
+From: 03 February 2025 - To: 03 February 2026
 
-Total Time: 902 hrs 4 mins
+Total Time: 907 hrs 23 mins
 
-C++             518 hrs 5 mins  ██████████████▒░░░░░░░░░░   56.94 %
-C               222 hrs 51 mins ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Python          70 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Other           7 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JSON            3 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Cuda            3 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+C++             518 hrs 5 mins  ██████████████░░░░░░░░░░░   56.40 %
+C               222 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Python          74 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other           11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Cuda            4 hrs 30 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JSON            3 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Git Config      1 hr 25 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI             1 hr 12 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
