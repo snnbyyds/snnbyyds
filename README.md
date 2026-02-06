@@ -5,17 +5,17 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 04 February 2026
+From: 05 February 2025 - To: 05 February 2026
 
-Total Time: 916 hrs 12 mins
+Total Time: 919 hrs 57 mins
 
-C++             518 hrs 5 mins  ██████████████░░░░░░░░░░░   55.87 %
-C               222 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-Python          75 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Cuda            12 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+C++             518 hrs 5 mins  ██████████████░░░░░░░░░░░   55.64 %
+C               222 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Python          76 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Cuda            14 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Other           11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
@@ -25,7 +25,7 @@ S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░
 Git Config      1 hr 25 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI             1 hr 12 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-SQL             47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+SQL             47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Linker Script   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Bash            28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
