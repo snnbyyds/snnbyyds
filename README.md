@@ -5,23 +5,23 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 05 February 2026
+From: 06 February 2025 - To: 06 February 2026
 
-Total Time: 919 hrs 57 mins
+Total Time: 929 hrs 59 mins
 
-C++             518 hrs 5 mins  ██████████████░░░░░░░░░░░   55.64 %
-C               222 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-Python          76 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Cuda            14 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Other           11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C++             518 hrs 5 mins  █████████████▓░░░░░░░░░░░   55.05 %
+C               222 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Python          76 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Cuda            24 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Markdown        22 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other           11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 JSON            3 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Git Config      1 hr 25 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI             1 hr 12 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
