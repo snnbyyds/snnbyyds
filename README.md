@@ -5,30 +5,30 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2025 - To: 14 February 2026
+From: 15 February 2025 - To: 15 February 2026
 
-Total Time: 975 hrs 59 mins
+Total Time: 976 hrs 32 mins
 
-C++             518 hrs 15 mins █████████████░░░░░░░░░░░░   52.50 %
-C               222 hrs 56 mins █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
-Python          113 hrs 54 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Cuda            31 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown        22 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Devicetree      21 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-CMake           14 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other           11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-YAML            5 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Assembly        5 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Makefile        4 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON            4 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-S               3 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Git Config      1 hr 29 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Objective-C     1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-TOML            1 hr 16 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-INI             1 hr 12 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-SQL             47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Linker Script   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Text            29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++             518 hrs 15 mins       █████████████░░░░░░░░░░░░   52.47 %
+C               222 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+Python          114 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Cuda            31 hrs 37 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Markdown        22 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Devicetree      21 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+CMake           14 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other           11 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+YAML            5 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Assembly        5 hrs 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Makefile        4 hrs 9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON            4 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+S               3 hrs 36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git Config      1 hr 29 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Objective-C     1 hr 18 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TOML            1 hr 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+INI             1 hr 12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+SQL             47 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Linker Script   32 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text            29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
