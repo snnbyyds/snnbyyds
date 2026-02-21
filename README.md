@@ -5,30 +5,30 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 18 February 2026
+From: 19 February 2025 - To: 19 February 2026
 
-Total Time: 978 hrs 50 mins
+Total Time: 981 hrs 52 mins
 
-C++             518 hrs 15 mins       █████████████░░░░░░░░░░░░   52.35 %
-C               222 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Python          115 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Cuda            32 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown        22 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+C++             518 hrs 15 mins       █████████████░░░░░░░░░░░░   52.19 %
+C               222 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Python          116 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Cuda            33 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown        22 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 Devicetree      21 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-CMake           14 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other           11 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+CMake           14 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other           11 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 YAML            5 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Assembly        5 hrs 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Makefile        4 hrs 9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 JSON            4 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 S               3 hrs 36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Shell           1 hr 48 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Git Config      1 hr 29 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Objective-C     1 hr 18 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 TOML            1 hr 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 INI             1 hr 12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 SQL             47 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Linker Script   32 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Text            29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Linker Script   32 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
