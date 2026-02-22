@@ -5,16 +5,16 @@ I'm currently studying at **Nanjing University** and have a passion for coding a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2025 - To: 19 February 2026
+From: 20 February 2025 - To: 20 February 2026
 
-Total Time: 981 hrs 52 mins
+Total Time: 983 hrs 31 mins
 
-C++             518 hrs 15 mins       █████████████░░░░░░░░░░░░   52.19 %
-C               222 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
-Python          116 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Cuda            33 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+C++             518 hrs 15 mins       █████████████░░░░░░░░░░░░   52.10 %
+C               222 hrs 56 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
+Python          117 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Cuda            33 hrs 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 Markdown        22 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Devicetree      21 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Devicetree      21 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 CMake           14 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 Other           11 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 YAML            5 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
